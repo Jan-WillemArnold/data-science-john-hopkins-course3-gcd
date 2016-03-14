@@ -29,10 +29,9 @@ The original datasets can be found here: https://d396qusza40orc.cloudfront.net/g
 ## Running the script
 The script requires packages "utils", "arules" and "dplyr", and will attempt to install them. A working directory is set in line 6 of the script to `~/Documents/coursera/gcd/finalproject`. It can be changed if necessary. In this working directory files will be written and deleted. Output will be written in a subdirectory 'output'. The script will end with the message 'run_analysis.R completed'.
 
-The script will output three data files:
+The script will output two data files:
 
 * `mergedData.txt`: the combined dataset of the original sets with training and test data.
-* `selectedData.txt`: contains only the selected variables.
 * `avgData.txt`: the real output, the data by user and by activity, averages on all measurements.
 
 ## Author
