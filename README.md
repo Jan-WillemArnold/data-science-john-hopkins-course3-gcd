@@ -8,13 +8,11 @@ output: html_document
 * Codebook and feature lists
     + codebook.md
     + mergedFeatures.txt
-    + selectedFeatures.txt
     + avgDataFeatures.txt
 * Script
     + run_analysis.R
 * Datasets
     + mergedData.txt
-    + selectedData.txt
     + avgData.txt
 * README.md (this file)
 

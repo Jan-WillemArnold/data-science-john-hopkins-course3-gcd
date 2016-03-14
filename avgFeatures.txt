@@ -1,6 +1,6 @@
 "x"
-"1" "Group.1"
-"2" "Group.2"
+"1" "subject"
+"2" "activity"
 "3" "tBodyAcc-mean()-X"
 "4" "tBodyAcc-mean()-Y"
 "5" "tBodyAcc-mean()-Z"

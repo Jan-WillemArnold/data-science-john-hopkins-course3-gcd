@@ -49,7 +49,7 @@ The complete list of variables of each feature vector is available in avgDataFea
 
 ## Activity Labels
 
-Value labels for teh activity variable.
+Value labels for the activity variable.
 
 * Laying: subject laying down during the test  
 * Sitting: subject sitting during the test  
